@@ -1,0 +1,6 @@
+node_modules/
+dist/
+build/
+*.zip
+*.tar
+minikube-linux-amd64
