@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: react-app
-        image: react-app
+        image: devopsdesk11/react-app:latest
         imagePullPolicy: Never
         ports:
         - containerPort: 80
